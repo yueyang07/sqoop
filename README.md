@@ -1,4 +1,4 @@
-# sqoop
+# sqoop from oracle to hive
 use sqoop to import data from oracle with efficiency optimization
 
 I use this shell script to sqoop about 2TB data from oracle to hive everyday
